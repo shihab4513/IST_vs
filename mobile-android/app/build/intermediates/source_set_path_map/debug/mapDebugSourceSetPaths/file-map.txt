@@ -1,0 +1,46 @@
+com.fydp.driveralertness.app-startup-runtime-1.1.1-0 C:\Users\shiha\.gradle\caches\9.3.0\transforms\00f185b1ded3212e21fc1da2a617d799\workspace\transformed\startup-runtime-1.1.1\res
+com.fydp.driveralertness.app-core-1.15.0-1 C:\Users\shiha\.gradle\caches\9.3.0\transforms\02e9376645140685639a5fd8e070dff9\workspace\transformed\core-1.15.0\res
+com.fydp.driveralertness.app-tracing-1.2.0-2 C:\Users\shiha\.gradle\caches\9.3.0\transforms\14eb868a3e8cfa8fc27af32513756b51\workspace\transformed\tracing-1.2.0\res
+com.fydp.driveralertness.app-lifecycle-process-2.6.2-3 C:\Users\shiha\.gradle\caches\9.3.0\transforms\2a77c7904a1fb723c6b629573f75c721\workspace\transformed\lifecycle-process-2.6.2\res
+com.fydp.driveralertness.app-emoji2-views-helper-1.3.0-4 C:\Users\shiha\.gradle\caches\9.3.0\transforms\33eea85bdf748eb450551ac7edd1c100\workspace\transformed\emoji2-views-helper-1.3.0\res
+com.fydp.driveralertness.app-lifecycle-viewmodel-savedstate-2.6.2-5 C:\Users\shiha\.gradle\caches\9.3.0\transforms\3c277e51fd1b445c81b7260b0cd863da\workspace\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.fydp.driveralertness.app-cardview-1.0.0-6 C:\Users\shiha\.gradle\caches\9.3.0\transforms\3f00445e9cf521839f1095346daedb63\workspace\transformed\cardview-1.0.0\res
+com.fydp.driveralertness.app-recyclerview-1.1.0-7 C:\Users\shiha\.gradle\caches\9.3.0\transforms\4529861bbc13ca0a73b980b0aaecdac8\workspace\transformed\recyclerview-1.1.0\res
+com.fydp.driveralertness.app-drawerlayout-1.1.1-8 C:\Users\shiha\.gradle\caches\9.3.0\transforms\49569623d0c8885564851b4eff9a642f\workspace\transformed\drawerlayout-1.1.1\res
+com.fydp.driveralertness.app-savedstate-ktx-1.2.1-9 C:\Users\shiha\.gradle\caches\9.3.0\transforms\4db61a821ade8ab4d4e3937828140528\workspace\transformed\savedstate-ktx-1.2.1\res
+com.fydp.driveralertness.app-camera-video-1.4.1-10 C:\Users\shiha\.gradle\caches\9.3.0\transforms\4f50b2fc01f7bf74d369b4df4775871a\workspace\transformed\camera-video-1.4.1\res
+com.fydp.driveralertness.app-camera-camera2-1.4.1-11 C:\Users\shiha\.gradle\caches\9.3.0\transforms\4fec0c4132f40b70d4374a7d6cb41ea9\workspace\transformed\camera-camera2-1.4.1\res
+com.fydp.driveralertness.app-tracing-ktx-1.2.0-12 C:\Users\shiha\.gradle\caches\9.3.0\transforms\646693fe1a9824b46d733dbbafc63e7f\workspace\transformed\tracing-ktx-1.2.0\res
+com.fydp.driveralertness.app-coordinatorlayout-1.1.0-13 C:\Users\shiha\.gradle\caches\9.3.0\transforms\6d509a3665d31c1aabe7bb1f8b7f0c0a\workspace\transformed\coordinatorlayout-1.1.0\res
+com.fydp.driveralertness.app-activity-1.10.0-14 C:\Users\shiha\.gradle\caches\9.3.0\transforms\78ae8cef35f1e1a435f54e6436b036ea\workspace\transformed\activity-1.10.0\res
+com.fydp.driveralertness.app-camera-view-1.4.1-15 C:\Users\shiha\.gradle\caches\9.3.0\transforms\7c9538c8bb06bce3a383855f2949c417\workspace\transformed\camera-view-1.4.1\res
+com.fydp.driveralertness.app-camera-core-1.4.1-16 C:\Users\shiha\.gradle\caches\9.3.0\transforms\7f8af9ba8851d00f1dd168bc1cd81370\workspace\transformed\camera-core-1.4.1\res
+com.fydp.driveralertness.app-appcompat-resources-1.7.0-17 C:\Users\shiha\.gradle\caches\9.3.0\transforms\82c759bc9459072960f5e8e20206e896\workspace\transformed\appcompat-resources-1.7.0\res
+com.fydp.driveralertness.app-lifecycle-viewmodel-2.6.2-18 C:\Users\shiha\.gradle\caches\9.3.0\transforms\83e7809111dfc6b37f08dbdf427e4252\workspace\transformed\lifecycle-viewmodel-2.6.2\res
+com.fydp.driveralertness.app-activity-ktx-1.10.0-19 C:\Users\shiha\.gradle\caches\9.3.0\transforms\8631b13c52b52af26eb664b1b353d596\workspace\transformed\activity-ktx-1.10.0\res
+com.fydp.driveralertness.app-material-1.12.0-20 C:\Users\shiha\.gradle\caches\9.3.0\transforms\899b6de96f17e33927e89355c3d26b2d\workspace\transformed\material-1.12.0\res
+com.fydp.driveralertness.app-emoji2-1.3.0-21 C:\Users\shiha\.gradle\caches\9.3.0\transforms\a25b72b4442421468aaa47fcc2334b8e\workspace\transformed\emoji2-1.3.0\res
+com.fydp.driveralertness.app-annotation-experimental-1.4.1-22 C:\Users\shiha\.gradle\caches\9.3.0\transforms\a5e4ebf70f85d5f1157d5d977204809e\workspace\transformed\annotation-experimental-1.4.1\res
+com.fydp.driveralertness.app-lifecycle-livedata-core-2.6.2-23 C:\Users\shiha\.gradle\caches\9.3.0\transforms\a8a04a4f15b59e99a7cf8fc5c081193b\workspace\transformed\lifecycle-livedata-core-2.6.2\res
+com.fydp.driveralertness.app-appcompat-1.7.0-24 C:\Users\shiha\.gradle\caches\9.3.0\transforms\a9eb86105b006e1b0ecdaf20edbffa77\workspace\transformed\appcompat-1.7.0\res
+com.fydp.driveralertness.app-constraintlayout-2.0.1-25 C:\Users\shiha\.gradle\caches\9.3.0\transforms\be8d9fbaf24ee5e0cfda5fc6eb57593e\workspace\transformed\constraintlayout-2.0.1\res
+com.fydp.driveralertness.app-fragment-1.5.4-26 C:\Users\shiha\.gradle\caches\9.3.0\transforms\c35c79c49d8d5f7b6f4b98c6e29be024\workspace\transformed\fragment-1.5.4\res
+com.fydp.driveralertness.app-lifecycle-runtime-2.6.2-27 C:\Users\shiha\.gradle\caches\9.3.0\transforms\d09afbcda49f1753bf128ab7f10fb429\workspace\transformed\lifecycle-runtime-2.6.2\res
+com.fydp.driveralertness.app-lifecycle-runtime-ktx-2.6.2-28 C:\Users\shiha\.gradle\caches\9.3.0\transforms\d1d72fb27f835b266d5b7b28e2a22a11\workspace\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.fydp.driveralertness.app-lifecycle-viewmodel-ktx-2.6.2-29 C:\Users\shiha\.gradle\caches\9.3.0\transforms\dbf93f14efb74c9e2af61c1dc00cc1c8\workspace\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.fydp.driveralertness.app-transition-1.5.0-30 C:\Users\shiha\.gradle\caches\9.3.0\transforms\df7adbc3f520ceda0f43bb69f215c8db\workspace\transformed\transition-1.5.0\res
+com.fydp.driveralertness.app-profileinstaller-1.4.0-31 C:\Users\shiha\.gradle\caches\9.3.0\transforms\e5fc116249d2dff558ea88ba1f0a9ed5\workspace\transformed\profileinstaller-1.4.0\res
+com.fydp.driveralertness.app-savedstate-1.2.1-32 C:\Users\shiha\.gradle\caches\9.3.0\transforms\eafa2e242ccd54ca1eb50e2ea5173227\workspace\transformed\savedstate-1.2.1\res
+com.fydp.driveralertness.app-core-ktx-1.15.0-33 C:\Users\shiha\.gradle\caches\9.3.0\transforms\f199ce7c6f821c4bff523eb8d84e27ad\workspace\transformed\core-ktx-1.15.0\res
+com.fydp.driveralertness.app-camera-lifecycle-1.4.1-34 C:\Users\shiha\.gradle\caches\9.3.0\transforms\f453f4956d3bdf50f5d28a4c1b5f54ec\workspace\transformed\camera-lifecycle-1.4.1\res
+com.fydp.driveralertness.app-core-runtime-2.2.0-35 C:\Users\shiha\.gradle\caches\9.3.0\transforms\f6e43034971b9cf0efa4695c750c60fe\workspace\transformed\core-runtime-2.2.0\res
+com.fydp.driveralertness.app-viewpager2-1.0.0-36 C:\Users\shiha\.gradle\caches\9.3.0\transforms\f6fdff7ffa7c2487ffb90c524e8595bf\workspace\transformed\viewpager2-1.0.0\res
+com.fydp.driveralertness.app-lifecycle-livedata-2.6.2-37 C:\Users\shiha\.gradle\caches\9.3.0\transforms\f74acb916bd0c74bdb90ea49afb3b666\workspace\transformed\lifecycle-livedata-2.6.2\res
+com.fydp.driveralertness.app-pngs-38 F:\FYDP III\IST_vs\mobile-android\app\build\generated\res\pngs\debug
+com.fydp.driveralertness.app-resValues-39 F:\FYDP III\IST_vs\mobile-android\app\build\generated\res\resValues\debug
+com.fydp.driveralertness.app-updated_navigation_xml-40 F:\FYDP III\IST_vs\mobile-android\app\build\generated\updated_navigation_xml\debug
+com.fydp.driveralertness.app-packageDebugResources-41 F:\FYDP III\IST_vs\mobile-android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.fydp.driveralertness.app-packageDebugResources-42 F:\FYDP III\IST_vs\mobile-android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.fydp.driveralertness.app-debug-43 F:\FYDP III\IST_vs\mobile-android\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.fydp.driveralertness.app-debug-44 F:\FYDP III\IST_vs\mobile-android\app\src\debug\res
+com.fydp.driveralertness.app-main-45 F:\FYDP III\IST_vs\mobile-android\app\src\main\res
