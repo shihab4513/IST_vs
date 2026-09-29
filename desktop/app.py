@@ -20,8 +20,11 @@ COLORS = {
 }
 
 MODEL_LABELS = {
+    "Drinking": "Drinking",
+    "Eating": "Eating",
     "Normal_Focused": "Normal Focused",
     "Normal_Non_Focused": "Normal Non-Focused",
+    "Sleeping": "Sleeping",
     "Using_Phone": "Using Phone",
     "Yawning_Drowsiness": "Yawning/Drowsiness",
 }
